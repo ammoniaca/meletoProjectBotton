@@ -1,0 +1,2 @@
+max_depth,max_features,max_leaf_nodes,min_impurity_decrease,min_samples_leaf,min_samples_split,min_weight_fraction_leaf,n_estimators
+7,0.2804349490421223,16,0.0028041780043805975,0.011887180255787602,0.12328379029251765,0.24997200305189593,1391

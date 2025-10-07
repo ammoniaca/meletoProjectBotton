@@ -1,0 +1,2 @@
+alpha,colsample_bytree,gamma,lambda,learning_rate,max_depth,min_child_weight,n_estimators,normalize_type,rate_drop,sample_type,skip_drop,subsample
+0.0026503667079910915,0.6287916441736897,0.0839636901522073,0.03841838423316125,0.10376888582332897,9,45,737,forest,0.11086268935371132,weighted,0,0.8335915522631732
